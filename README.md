@@ -13,6 +13,13 @@ Se realizan varios ejemplos de card con sus propiedades
 
 ![image](https://github.com/user-attachments/assets/7c1bb58c-3426-4709-af19-1b0c20f2bb04)
 
+## Color de la tarjeta, texto y logo
+
+![image](https://github.com/user-attachments/assets/3245099c-1fa0-4031-b75c-3beba4d55a2f)
+
+
+
+
 
 
 
