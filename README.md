@@ -21,6 +21,14 @@ Se realizan varios ejemplos de card con sus propiedades
 
 ![image](https://github.com/user-attachments/assets/c09bed81-14b3-4db8-a59b-5097ff93494a)
 
+## Image Card
+
+![image](https://github.com/user-attachments/assets/120c8042-d403-4b14-9834-779acef8f694)
+
+## Referencias
+https://programmerspouch.medium.com/3-card-flutter-famous-widgets-guide-1b4434f962b1
+
+
 
 
 
